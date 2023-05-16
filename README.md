@@ -14,11 +14,7 @@
 
 In this example the red player's moves are choosen by the AI agent.
 
-<video width="320" height="240" autoplay loop="loop" muted="muted">
-  <source src="https://github.com/riccardozulla/catan-ai/blob/main/game_example.mp4" type="video/mp4"
-  legend="viao">
-Your browser does not support the video tag.
-</video>
+https://github.com/riccardozulla/catan-ai/assets/62718897/2119e1b4-cf26-4975-8c38-0cdee10cdc58
 
 
 ### Conclusions
