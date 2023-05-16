@@ -14,7 +14,7 @@
 
 In this example the red player's moves are choosen by the AI agent.
 
-https://github.com/riccardozulla/catan-ai/assets/62718897/2119e1b4-cf26-4975-8c38-0cdee10cdc58
+https://github.com/riccardozulla/catan-ai/assets/62718897/59fc690d-6e4c-4acd-8d3e-23c84e00e4c6
 
 
 ### Conclusions
