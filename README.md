@@ -19,6 +19,6 @@ https://github.com/riccardozulla/catan-ai/assets/62718897/2119e1b4-cf26-4975-8c3
 
 ### Conclusions
 
-This implementation uses a supervised approach to train a game-playing agent to play the game.
+This implementation employs a supervised approach to train a game-playing agent to score the available moves and choose the best one.
 
-The game of Settlers of Catan has a stochastic nature that prevents us from reaching high performances and stability. For this reason, the implementation of a probabilistic approach using reiforcement learning techniques could be the next step of this project. 
+The game of Settlers of Catan has a stochastic nature that prevents us from reaching high performances and stability. For this reason, the implementation of a probabilistic approach using reinforcement learning techniques could be the next step in this project. 
