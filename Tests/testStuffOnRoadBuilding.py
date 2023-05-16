@@ -1,6 +1,3 @@
-import Classes.Player as Player
-import Classes.Board as Board
-import Classes.Bank as Bank
 import Command.commands as commands
 import Classes.Game as Game
 import unittest
