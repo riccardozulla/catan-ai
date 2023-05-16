@@ -124,4 +124,4 @@ if __name__ == '__main__':
                        PlayerTypes.PRIORITY, PlayerTypes.PURE]
         Gnn('AI/Weights/final_model_weights.pth')
         performanceEvaluation(playerTypes=playerTypes,
-                              numberOfTestingGames=10, withGraphics=False, speed=True)
+                              numberOfTestingGames=1, withGraphics=True, speed=True)
